@@ -105,6 +105,12 @@ Single-member clusters: Products that were not part of any larger cluster.
 - The percentage of products in different cluster categories changed after reclustering.
 - The improved recommendation system with reclustering is expected to enhance user engagement, satisfaction, and conversion rates.
 
+![before_clustering](https://github.com/mzfuadi97/catalogue_centroid/assets/70827786/659e77c3-22c8-4fec-be6b-4344ddf877ea)
+
+![after clustering member to member](https://github.com/mzfuadi97/catalogue_centroid/assets/70827786/1b53fa1d-99d4-47ed-bcc5-8ba76130b489)
+
+![member to centroid](https://github.com/mzfuadi97/catalogue_centroid/assets/70827786/051bb8b1-8ec4-4bfd-ac5f-0fc9780d8317)
+
 Given the silhouette scores you've provided:
 
 > **Silhouette Score Before Reclustering**: 0.18
